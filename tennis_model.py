@@ -284,8 +284,12 @@ if st.button("Laske Kertoimet", type="primary", use_container_width=True):
     pure_prob_a  = to_prob(pure_logit_a)
     pure_prob_b  = 1 - pure_prob_a
 
-    # 9. Lopullinen
+    # 9. Lopullinen + formaattikorjaus
+    # BO5 (Grand Slam) vähentää varianssia — parempi pelaaja voittaa useammin.
+    # Kerroin 1.15 on teoreettinen arvio; ideaalitilanteessa kalibroitaisiin GS-datalla.
     final_logit_a = pohja_logit + fatigue_logit + kvalit_logit
+    if otteluformaatti == "Grand Slam (Paras 5:stä)":
+        final_logit_a = final_logit_a * 1.15
     final_prob_a  = to_prob(final_logit_a)
     final_prob_b  = 1 - final_prob_a
 
