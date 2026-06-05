@@ -1,0 +1,706 @@
+{
+    "Pablo Carreno Busta": {
+        "Massa": {
+            "ika": 34,
+            "elo": 1726,
+            "spw_l52": 62.8,
+            "rpw_l52": 36.2,
+            "spw_ura": 62.3,
+            "rpw_ura": 39.6,
+            "matches_l52": 8
+        }
+    },
+    "Francisco Comesana": {
+        "Massa": {
+            "ika": 25,
+            "elo": 1610,
+            "spw_l52": 63.6,
+            "rpw_l52": 34.8,
+            "spw_ura": 63.5,
+            "rpw_ura": 36.1,
+            "matches_l52": 15
+        }
+    },
+    "Dino Prizmic": {
+        "Massa": {
+            "ika": 20,
+            "elo": 1787,
+            "spw_l52": 64.3,
+            "rpw_l52": 39.4,
+            "spw_ura": 63.0,
+            "rpw_ura": 39.9,
+            "matches_l52": 13
+        }
+    },
+    "Ugo Humbert": {
+        "Massa": {
+            "ika": 27,
+            "elo": 1713,
+            "spw_l52": 56.6,
+            "rpw_l52": 38.4,
+            "spw_ura": 60.7,
+            "rpw_ura": 37.2,
+            "matches_l52": 7
+        }
+    },
+    "Karen Khachanov": {
+        "Massa": {
+            "ika": 29,
+            "elo": 1784,
+            "spw_l52": 63.5,
+            "rpw_l52": 39.5,
+            "spw_ura": 63.2,
+            "rpw_ura": 38.5,
+            "matches_l52": 13
+        }
+    },
+    "Giovanni Mpetshi Perricard": {
+        "Massa": {
+            "ika": 22,
+            "elo": 1665,
+            "spw_l52": 66.6,
+            "rpw_l52": 31.5,
+            "spw_ura": 64.9,
+            "rpw_ura": 32.1,
+            "matches_l52": 6
+        }
+    },
+    "Jannik Sinner": {
+        "Massa": {
+            "ika": 24,
+            "elo": 2223,
+            "spw_l52": 70.3,
+            "rpw_l52": 44.6,
+            "spw_ura": 65.1,
+            "rpw_ura": 42.7,
+            "matches_l52": 24
+        }
+    },
+    "Alexander Zverev": {
+        "Massa": {
+            "ika": 29,
+            "elo": 2028,
+            "spw_l52": 66.9,
+            "rpw_l52": 41.9,
+            "spw_ura": 64.6,
+            "rpw_ura": 40.9,
+            "matches_l52": 26
+        }
+    },
+    "Carlos Alcaraz": {
+        "Massa": {
+            "ika": 23,
+            "elo": 2212,
+            "spw_l52": 64.9,
+            "rpw_l52": 44.6,
+            "spw_ura": 64.3,
+            "rpw_ura": 44.1,
+            "matches_l52": 25
+        }
+    },
+    "Hamad Medjedovic": {
+        "Massa": {
+            "ika": 22,
+            "elo": 1798,
+            "spw_l52": 61.2,
+            "rpw_l52": 37.9,
+            "spw_ura": 61.7,
+            "rpw_ura": 36.4,
+            "matches_l52": 10
+        }
+    },
+    "Martin Landaluce": {
+        "Massa": {
+            "ika": 20,
+            "elo": 1569,
+            "spw_l52": 57.7,
+            "rpw_l52": 29.3,
+            "spw_ura": 57.4,
+            "rpw_ura": 33.0,
+            "matches_l52": 3
+        }
+    },
+    "Dusan Lajovic": {
+        "Massa": {
+            "ika": 35,
+            "elo": 1606,
+            "spw_l52": 59.7,
+            "rpw_l52": 34.6,
+            "spw_ura": 62.1,
+            "rpw_ura": 37.9,
+            "matches_l52": 12
+        }
+    },
+    "Christopher Oconnell": {
+        "Massa": {
+            "ika": 31,
+            "elo": 1588,
+            "spw_l52": 55.0,
+            "rpw_l52": 35.0,
+            "spw_ura": 61.4,
+            "rpw_ura": 35.3,
+            "matches_l52": 22
+        }
+    },
+    "Pedro Martinez": {
+        "Massa": {
+            "ika": 29,
+            "elo": 1597,
+            "spw_l52": 55.3,
+            "rpw_l52": 38.9,
+            "spw_ura": 59.2,
+            "rpw_ura": 39.7,
+            "matches_l52": 13
+        }
+    },
+    "Roberto Bautista Agut": {
+        "Massa": {
+            "ika": 38,
+            "elo": 1676,
+            "spw_l52": 58.4,
+            "rpw_l52": 35.7,
+            "spw_ura": 62.2,
+            "rpw_ura": 40.1,
+            "matches_l52": 11
+        }
+    },
+    "Rinky Hijikata": {
+        "Massa": {
+            "ika": 25,
+            "elo": 1544,
+            "spw_l52": 63.2,
+            "rpw_l52": 36.8,
+            "spw_ura": 60.1,
+            "rpw_ura": 33.0,
+            "matches_l52": 5
+        }
+    },
+    "Aleksandar Vukic": {
+        "Massa": {
+            "ika": 30,
+            "elo": 1488,
+            "spw_l52": 61.4,
+            "rpw_l52": 35.6,
+            "spw_ura": 60.8,
+            "rpw_ura": 34.8,
+            "matches_l52": 6
+        }
+    },
+    "Titouan Droguet": {
+        "Massa": {
+            "ika": 24,
+            "elo": 1692,
+            "spw_l52": 63.5,
+            "rpw_l52": 38.0,
+            "spw_ura": 63.2,
+            "rpw_ura": 38.0,
+            "matches_l52": 7
+        }
+    },
+    "Jacob Fearnley": {
+        "Massa": {
+            "ika": 24,
+            "elo": 1652,
+            "spw_l52": 61.8,
+            "rpw_l52": 40.7,
+            "spw_ura": 61.5,
+            "rpw_ura": 40.7,
+            "matches_l52": 8
+        }
+    },
+    "Otto Virtanen": {
+        "Massa": {
+            "ika": 24,
+            "elo": 1556,
+            "spw_l52": 56.6,
+            "rpw_l52": 38.8,
+            "spw_ura": 58.2,
+            "rpw_ura": 38.0,
+            "matches_l52": 5
+        }
+    },
+    "Alexander Shevchenko": {
+        "Massa": {
+            "ika": 25,
+            "elo": 1628,
+            "spw_l52": 60.1,
+            "rpw_l52": 38.1,
+            "spw_ura": 57.9,
+            "rpw_ura": 39.2,
+            "matches_l52": 14
+        }
+    },
+    "Hugo Gaston": {
+        "Massa": {
+            "ika": 25,
+            "elo": 1591,
+            "spw_l52": 58.4,
+            "rpw_l52": 37.0,
+            "spw_ura": 58.5,
+            "rpw_ura": 38.6,
+            "matches_l52": 8
+        }
+    },
+    "Daniil Medvedev": {
+        "Massa": {
+            "ika": 30,
+            "elo": 1904,
+            "spw_l52": 63.5,
+            "rpw_l52": 39.4,
+            "spw_ura": 61.5,
+            "rpw_ura": 40.2,
+            "matches_l52": 12
+        }
+    },
+    "Thiago Agustin Tirante": {
+        "Massa": {
+            "ika": 25,
+            "elo": 1675,
+            "spw_l52": 66.9,
+            "rpw_l52": 36.9,
+            "spw_ura": 65.2,
+            "rpw_ura": 36.0,
+            "matches_l52": 19
+        }
+    },
+    "Casper Ruud": {
+        "Massa": {
+            "ika": 27,
+            "elo": 1939,
+            "spw_l52": 64.7,
+            "rpw_l52": 40.5,
+            "spw_ura": 65.5,
+            "rpw_ura": 39.8,
+            "matches_l52": 16
+        }
+    },
+    "Rafael Jodar": {
+        "Massa": {
+            "ika": 19,
+            "elo": 1934,
+            "spw_l52": 66.3,
+            "rpw_l52": 43.6,
+            "spw_ura": 66.3,
+            "rpw_ura": 43.6,
+            "matches_l52": 15
+        }
+    },
+    "Sebastian Baez": {
+        "Massa": {
+            "ika": 25,
+            "elo": 1706,
+            "spw_l52": 58.0,
+            "rpw_l52": 39.5,
+            "spw_ura": 61.2,
+            "rpw_ura": 41.9,
+            "matches_l52": 21
+        }
+    },
+    "Botic Van De Zandschulp": {
+        "Massa": {
+            "ika": 30,
+            "elo": 1713,
+            "spw_l52": 62.6,
+            "rpw_l52": 41.4,
+            "spw_ura": 60.6,
+            "rpw_ura": 40.5,
+            "matches_l52": 15
+        }
+    },
+    "Quentin Halys": {
+        "Massa": {
+            "ika": 29,
+            "elo": 1625,
+            "spw_l52": 68.1,
+            "rpw_l52": 32.3,
+            "spw_ura": 65.7,
+            "rpw_ura": 32.7,
+            "matches_l52": 6
+        }
+    },
+    "Benjamin Bonzi": {
+        "Massa": {
+            "ika": 29,
+            "elo": 1635,
+            "spw_l52": 66.6,
+            "rpw_l52": 31.8,
+            "spw_ura": 60.2,
+            "rpw_ura": 35.6,
+            "matches_l52": 3
+        }
+    },
+    "Tallon Griekspoor": {
+        "Massa": {
+            "ika": 29,
+            "elo": 1746,
+            "spw_l52": 63.5,
+            "rpw_l52": 37.0,
+            "spw_ura": 64.2,
+            "rpw_ura": 36.1,
+            "matches_l52": 15
+        }
+    },
+    "Terence Atmane": {
+        "Massa": {
+            "ika": 24,
+            "elo": 1668,
+            "spw_l52": 63.5,
+            "rpw_l52": 32.9,
+            "spw_ura": 63.4,
+            "rpw_ura": 33.6,
+            "matches_l52": 12
+        }
+    },
+    "Daniel Altmaier": {
+        "Massa": {
+            "ika": 27,
+            "elo": 1666,
+            "spw_l52": 63.0,
+            "rpw_l52": 35.4,
+            "spw_ura": 61.2,
+            "rpw_ura": 37.3,
+            "matches_l52": 17
+        }
+    },
+    "Alex Molcan": {
+        "Massa": {
+            "ika": 28,
+            "elo": 1714,
+            "spw_l52": 65.9,
+            "rpw_l52": 42.1,
+            "spw_ura": 61.3,
+            "rpw_ura": 40.7,
+            "matches_l52": 7
+        }
+    },
+    "Arthur Rinderknech": {
+        "Massa": {
+            "ika": 30,
+            "elo": 1731,
+            "spw_l52": 66.2,
+            "rpw_l52": 34.4,
+            "spw_ura": 65.1,
+            "rpw_ura": 34.8,
+            "matches_l52": 15
+        }
+    },
+    "Adolfo Daniel Vallejo": {
+        "Massa": {
+            "ika": 22,
+            "elo": 1720,
+            "spw_l52": 61.6,
+            "rpw_l52": 39.5,
+            "spw_ura": 59.7,
+            "rpw_ura": 38.3,
+            "matches_l52": 7
+        }
+    },
+    "Zizou Bergs": {
+        "Massa": {
+            "ika": 26,
+            "elo": 1709,
+            "spw_l52": 60.6,
+            "rpw_l52": 36.6,
+            "spw_ura": 62.0,
+            "rpw_ura": 37.4,
+            "matches_l52": 9
+        }
+    },
+    "Camilo Ugo Carabelli": {
+        "Massa": {
+            "ika": 26,
+            "elo": 1731,
+            "spw_l52": 60.6,
+            "rpw_l52": 37.3,
+            "spw_ura": 59.1,
+            "rpw_ura": 38.0,
+            "matches_l52": 24
+        }
+    },
+    "Miomir Kecmanovic": {
+        "Massa": {
+            "ika": 26,
+            "elo": 1663,
+            "spw_l52": 60.7,
+            "rpw_l52": 35.5,
+            "spw_ura": 61.2,
+            "rpw_ura": 39.5,
+            "matches_l52": 8
+        }
+    },
+    "Alejandro Tabilo": {
+        "Massa": {
+            "ika": 28,
+            "elo": 1799,
+            "spw_l52": 66.5,
+            "rpw_l52": 37.1,
+            "spw_ura": 62.8,
+            "rpw_ura": 38.6,
+            "matches_l52": 21
+        }
+    },
+    "Juan Manuel Cerundolo": {
+        "Massa": {
+            "ika": 24,
+            "elo": 1681,
+            "spw_l52": 60.5,
+            "rpw_l52": 39.5,
+            "spw_ura": 59.5,
+            "rpw_ura": 38.7,
+            "matches_l52": 19
+        }
+    },
+    "Alex Michelsen": {
+        "Massa": {
+            "ika": 21,
+            "elo": 1631,
+            "spw_l52": 59.5,
+            "rpw_l52": 34.5,
+            "spw_ura": 58.3,
+            "rpw_ura": 36.1,
+            "matches_l52": 9
+        }
+    },
+    "Francisco Cerundolo": {
+        "Massa": {
+            "ika": 27,
+            "elo": 1872,
+            "spw_l52": 60.9,
+            "rpw_l52": 43.8,
+            "spw_ura": 61.1,
+            "rpw_ura": 42.1,
+            "matches_l52": 12
+        }
+    },
+    "Alex De Minaur": {
+        "Massa": {
+            "ika": 27,
+            "elo": 1859,
+            "spw_l52": 61.8,
+            "rpw_l52": 37.7,
+            "spw_ura": 60.1,
+            "rpw_ura": 40.8,
+            "matches_l52": 10
+        }
+    },
+    "Alejandro Davidovich Fokina": {
+        "Massa": {
+            "ika": 26,
+            "elo": 1813,
+            "spw_l52": 59.9,
+            "rpw_l52": 37.5,
+            "spw_ura": 60.1,
+            "rpw_ura": 40.6,
+            "matches_l52": 9
+        }
+    },
+    "Corentin Moutet": {
+        "Massa": {
+            "ika": 27,
+            "elo": 1743,
+            "spw_l52": 60.3,
+            "rpw_l52": 41.2,
+            "spw_ura": 58.7,
+            "rpw_ura": 39.9,
+            "matches_l52": 16
+        }
+    },
+    "Kamil Majchrzak": {
+        "Massa": {
+            "ika": 30,
+            "elo": 1716,
+            "spw_l52": 64.5,
+            "rpw_l52": 36.1,
+            "spw_ura": 61.4,
+            "rpw_ura": 36.9,
+            "matches_l52": 11
+        }
+    },
+    "Luciano Darderi": {
+        "Massa": {
+            "ika": 24,
+            "elo": 1846,
+            "spw_l52": 63.6,
+            "rpw_l52": 40.9,
+            "spw_ura": 63.7,
+            "rpw_ura": 39.6,
+            "matches_l52": 36
+        }
+    },
+    "Roman Andres Burruchaga": {
+        "Massa": {
+            "ika": 24,
+            "elo": 1736,
+            "spw_l52": 62.7,
+            "rpw_l52": 42.4,
+            "spw_ura": 60.0,
+            "rpw_ura": 41.4,
+            "matches_l52": 22
+        }
+    },
+    "Tomas Martin Etcheverry": {
+        "Massa": {
+            "ika": 26,
+            "elo": 1795,
+            "spw_l52": 65.1,
+            "rpw_l52": 36.7,
+            "spw_ura": 63.5,
+            "rpw_ura": 38.2,
+            "matches_l52": 29
+        }
+    },
+    "Flavio Cobolli": {
+        "Massa": {
+            "ika": 24,
+            "elo": 1859,
+            "spw_l52": 62.7,
+            "rpw_l52": 41.4,
+            "spw_ura": 62.3,
+            "rpw_ura": 40.4,
+            "matches_l52": 12
+        }
+    },
+    "Ignacio Buse": {
+        "Massa": {
+            "ika": 22,
+            "elo": 1698,
+            "spw_l52": 63.1,
+            "rpw_l52": 35.7,
+            "spw_ura": 62.6,
+            "rpw_ura": 35.7,
+            "matches_l52": 22
+        }
+    },
+    "Mariano Navone": {
+        "Massa": {
+            "ika": 25,
+            "elo": 1759,
+            "spw_l52": 58.8,
+            "rpw_l52": 44.0,
+            "spw_ura": 58.5,
+            "rpw_ura": 43.8,
+            "matches_l52": 25
+        }
+    },
+    "Cameron Norrie": {
+        "Massa": {
+            "ika": 30,
+            "elo": 1842,
+            "spw_l52": 61.3,
+            "rpw_l52": 38.7,
+            "spw_ura": 61.8,
+            "rpw_ura": 39.4,
+            "matches_l52": 19
+        }
+    },
+    "Tommy Paul": {
+        "Massa": {
+            "ika": 29,
+            "elo": 1857,
+            "spw_l52": 62.2,
+            "rpw_l52": 39.4,
+            "spw_ura": 62.0,
+            "rpw_ura": 38.2,
+            "matches_l52": 14
+        }
+    },
+    "Frances Tiafoe": {
+        "Massa": {
+            "ika": 28,
+            "elo": 1802,
+            "spw_l52": 65.8,
+            "rpw_l52": 37.0,
+            "spw_ura": 63.1,
+            "rpw_ura": 36.9,
+            "matches_l52": 13
+        }
+    },
+    "Stefanos Tsitsipas": {
+        "Massa": {
+            "ika": 27,
+            "elo": 1867,
+            "spw_l52": 66.4,
+            "rpw_l52": 33.2,
+            "spw_ura": 66.4,
+            "rpw_ura": 39.1,
+            "matches_l52": 10
+        }
+    },
+    "Learner Tien": {
+        "Massa": {
+            "ika": 20,
+            "elo": 1685,
+            "spw_l52": 61.0,
+            "rpw_l52": 35.8,
+            "spw_ura": 60.6,
+            "rpw_ura": 35.2,
+            "matches_l52": 10
+        }
+    },
+    "Jakub Mensik": {
+        "Massa": {
+            "ika": 20,
+            "elo": 1789,
+            "spw_l52": 69.4,
+            "rpw_l52": 35.3,
+            "spw_ura": 66.3,
+            "rpw_ura": 36.6,
+            "matches_l52": 7
+        }
+    },
+    "Yannick Hanfmann": {
+        "Massa": {
+            "ika": 34,
+            "elo": 1752,
+            "spw_l52": 66.1,
+            "rpw_l52": 36.5,
+            "spw_ura": 63.2,
+            "rpw_ura": 37.9,
+            "matches_l52": 20
+        }
+    },
+    "Taylor Fritz": {
+        "Massa": {
+            "ika": 28,
+            "elo": 1873,
+            "spw_l52": 65.8,
+            "rpw_l52": 32.9,
+            "spw_ura": 64.4,
+            "rpw_ura": 37.8,
+            "matches_l52": 7
+        }
+    },
+    "Alexei Popyrin": {
+        "Massa": {
+            "ika": 26,
+            "elo": 1745,
+            "spw_l52": 67.0,
+            "rpw_l52": 34.5,
+            "spw_ura": 64.1,
+            "rpw_ura": 34.8,
+            "matches_l52": 16
+        }
+    },
+    "Jaume Munar": {
+        "Massa": {
+            "ika": 29,
+            "elo": 1719,
+            "spw_l52": 61.5,
+            "rpw_l52": 38.0,
+            "spw_ura": 60.3,
+            "rpw_ura": 40.4,
+            "matches_l52": 22
+        }
+    },
+    "Stan Wawrinka": {
+        "Massa": {
+            "ika": 41,
+            "elo": 1624,
+            "spw_l52": 57.8,
+            "rpw_l52": 36.6,
+            "spw_ura": 64.0,
+            "rpw_ura": 39.0,
+            "matches_l52": 7
+        }
+    }
+}

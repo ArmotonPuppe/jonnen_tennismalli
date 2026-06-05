@@ -1,0 +1,8 @@
+{
+    "matchup_k_suositeltu": 22.9,
+    "matchup_k_nykyinen": 18.0,
+    "elo_weight_suositeltu": 0.0,
+    "brier_score": 0.2187,
+    "tarkkuus_pct": 64.0,
+    "ohje": "Vaihda tennis_model.py:ssä rivi 'matchup_logit = piste_ero * 18.0' → 'matchup_logit = piste_ero * 22.9'"
+}
